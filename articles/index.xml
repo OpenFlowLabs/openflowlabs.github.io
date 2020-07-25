@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Company Blog of OpenFlowLabs on OpenFlowLabs</title>
-    <link>openflowlabs.com/articles/</link>
+    <link>https://openflowlabs.github.io/articles/</link>
     <description>Recent content in The Company Blog of OpenFlowLabs on OpenFlowLabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jul 2020 12:59:28 +0200</lastBuildDate>
     
-	<atom:link href="openflowlabs.com/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openflowlabs.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

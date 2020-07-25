@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>openflowlabs.com/de/articles/</loc>
+    <loc>https://openflowlabs.github.io/de/articles/</loc>
     <lastmod>2020-07-24T12:59:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="openflowlabs.com/articles/"
+                href="https://openflowlabs.github.io/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="openflowlabs.com/de/articles/"
+                href="https://openflowlabs.github.io/de/articles/"
                 />
   </url>
   
   <url>
-    <loc>openflowlabs.com/de/</loc>
+    <loc>https://openflowlabs.github.io/de/</loc>
     <lastmod>2020-07-24T12:59:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="openflowlabs.com/"
+                href="https://openflowlabs.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="openflowlabs.com/de/"
+                href="https://openflowlabs.github.io/de/"
                 />
   </url>
   
   <url>
-    <loc>openflowlabs.com/de/categories/</loc>
+    <loc>https://openflowlabs.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="openflowlabs.com/categories/"
+                href="https://openflowlabs.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="openflowlabs.com/de/categories/"
+                href="https://openflowlabs.github.io/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>openflowlabs.com/de/tags/</loc>
+    <loc>https://openflowlabs.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="openflowlabs.com/tags/"
+                href="https://openflowlabs.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="openflowlabs.com/de/tags/"
+                href="https://openflowlabs.github.io/de/tags/"
                 />
   </url>
   
