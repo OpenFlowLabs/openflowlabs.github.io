@@ -11,5 +11,14 @@
 	<atom:link href="https://openflowlabs.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Hello &#34;new&#34; World</title>
+      <link>https://openflowlabs.com/articles/hello-new-world/</link>
+      <pubDate>Fri, 07 Aug 2020 09:06:47 +0200</pubDate>
+      
+      <guid>https://openflowlabs.com/articles/hello-new-world/</guid>
+      <description>Our changes and new Partners In the last few months OpenFlowLabs has seen from some drastic changes to its structure. We are now a registered company and have new friends and partners working with us. First of is the split of the business related design and strategy into its own brand and channels under the Umbrella of Fruitsteps. If you are looking to change your business or adapt yourself to these trying times give them a call.</description>
+    </item>
+    
   </channel>
 </rss>
