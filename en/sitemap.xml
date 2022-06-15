@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://openflowlabs.com/articles/remote-working-new-office/</loc>
     <lastmod>2020-08-17T09:42:24+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://openflowlabs.com/articles/hello-new-world/</loc>
     <lastmod>2020-08-07T09:06:47+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://openflowlabs.com/</loc>
     <lastmod>2020-07-24T12:59:28+02:00</lastmod>
     <xhtml:link
@@ -25,9 +20,7 @@
                 hreflang="en"
                 href="https://openflowlabs.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://openflowlabs.com/articles/</loc>
     <lastmod>2020-07-24T12:59:28+02:00</lastmod>
     <xhtml:link
@@ -40,9 +33,7 @@
                 hreflang="en"
                 href="https://openflowlabs.com/articles/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://openflowlabs.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -54,9 +45,7 @@
                 hreflang="en"
                 href="https://openflowlabs.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://openflowlabs.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,5 +58,4 @@
                 href="https://openflowlabs.com/tags/"
                 />
   </url>
-  
 </urlset>
